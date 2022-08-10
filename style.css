@@ -22,7 +22,7 @@ body {
 }
 
 button{
-    border
+    border:none;
 
 .show-modal {
     font-size: 2rem;
